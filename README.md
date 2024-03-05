@@ -1,3 +1,7 @@
+# Resource
+React Query in 40 Minutes - Everything You Need to Know About Tanstack React Query
+https://www.youtube.com/watch?v=NOvx4LB6Hfk
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
